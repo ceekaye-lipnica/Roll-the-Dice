@@ -1,0 +1,18 @@
+h1{
+    font-size: 3rem;
+}
+
+label{
+    font-size: 3rem;
+}
+
+button{
+    font-size: 2rem;
+    width: 8rem;
+    margin-top: 2rem;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: red;
+}
